@@ -1,0 +1,16 @@
+E:\BG_3D\bin\x86\Debug\Content\Models\enemy.xnb
+E:\BG_3D\bin\x86\Debug\Content\Models\launcher_base.xnb
+E:\BG_3D\bin\x86\Debug\Content\Models\launcher_head.xnb
+E:\BG_3D\bin\x86\Debug\Content\Models\missile.xnb
+E:\BG_3D\bin\x86\Debug\Content\Models\terrain.xnb
+E:\BG_3D\bin\x86\Debug\Content\Models\enemy_0.xnb
+E:\BG_3D\bin\x86\Debug\Content\Models\launcher_0.xnb
+E:\BG_3D\bin\x86\Debug\Content\Models\missile_0.xnb
+E:\BG_3D\bin\x86\Debug\Content\Models\terrain_0.xnb
+E:\BG_3D\bin\x86\Debug\Content\Models\sunset_0.xnb
+E:\BG_3D\bin\x86\Debug\BG_3D.exe
+E:\BG_3D\bin\x86\Debug\BG_3D.pdb
+E:\BG_3D\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BG_3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\BG_3D\obj\x86\Debug\BG_3D.exe
+E:\BG_3D\obj\x86\Debug\BG_3D.pdb
